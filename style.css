@@ -1,0 +1,28 @@
+h1
+{
+	width: 100%;
+	background-color: salmon;
+}
+
+canvas
+{
+	border: 5px solid black;
+	margin-top: 10px;
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+	background-color: aquamarine;
+}
+
+button
+{
+	background-color: lightseagreen;
+	color: white;
+	font-size: 28px;
+	border-radius: 10px;
+}
+
+body
+{
+	background-color: brown;
+}
